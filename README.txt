@@ -7,14 +7,14 @@ Eclipse Helios
 	. Plugin de Maven
 	. Plugin de EGit
 Java 1.6.0_24
-MongoDB-1.8.1 (configuración por defecto)
+MongoDB-1.8.1 (configuraci√≥n por defecto)
 
 Estructura (quickstart de Maven):
 
 src/
 	main/
 		java/
-			- Lógica de negocio del proyecto
+			- L√≥gica de negocio del proyecto
 		
 	test/
 		java/
